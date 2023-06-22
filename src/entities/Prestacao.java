@@ -3,7 +3,7 @@ package entities;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-			//Installment - Prestacao
+			
 public class Prestacao {
 	
 	DateTimeFormatter  fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
